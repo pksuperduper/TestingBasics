@@ -2,7 +2,7 @@
  * 
  */
 
-function goMadLib(formData) { 
+function footBall() { 
 
 const football = ["49s", "Chiefs"];
 
